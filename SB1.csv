@@ -1,0 +1,12 @@
+seq,value
+No-No-No,2
+No-Yes-No,1
+No-Yes-Yes,1
+Yes-No-No,7
+Yes-Don't Know-No,1
+Yes-Don't Know-Don't Know,2
+Yes-Don't Know-Yes,1
+Yes-No-Yes,5
+Yes-Yes-No,16
+Yes-Yes-Don't Know,5
+Yes-Yes-Yes,16
